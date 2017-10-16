@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506021106 source:/home/anubhavshelat/Documents/Programming/C++/School/Lab5_AS/main.cpp
+	<iostream>
+	<iomanip>
+
